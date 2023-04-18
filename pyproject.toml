@@ -1,5 +1,5 @@
 [project]
-name = "auto-gpt"
+name = "auto-gpt-plugin-support-fork"
 version = "0.1.0"
 description = "A GPT based ai agent"
 readme = "README.md"
